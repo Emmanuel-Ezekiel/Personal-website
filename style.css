@@ -109,7 +109,7 @@ img {
 
 .section-substitle {
   display: block;
-  font-size: var(--small-font-size);
+  font-size: var(--h3-font-size);
   color: var(--first-color-dark);
   text-align: center;
   font-weight: var(--font-bold);
